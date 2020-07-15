@@ -1,0 +1,30 @@
+Javascript Data types are as follows:
+
+There are six basic data types in Javascript which can be further divided into three categories.
+1.Primitive-String,Number,Boolean
+2.Composite-Object,Array,Function
+3.Special -Undefined,null
+
+Some of data types are as follows:
+  A.String data type:
+  Eg.var a = 'Hi there!';  // using single quotes
+  1.In this the string data type is used to represent textual data.
+  2.Single or double quotes can be used.
+  
+  B.Number data type:
+  The number data type is used to represent positive or negative numbers with or without decimal place, or numbers written using exponential notation e.g. 1.5e-4 (equivalent to 1.5x10-4).
+  
+  C.Boolean data type:
+  The Boolean data type can hold only two values: true or false. It is typically used to store values like yes (true) or no (false), on (true) or off (false), etc. as demonstrated below:
+ 
+  D.Object data type:The object is a complex data type that allows you to store collections of data.
+  
+  E.Array data type:
+  An array is a type of object used for storing multiple values in single variable. Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1].
+  
+  F.Function data type:
+  The function is callable object that executes a block of code.
+  functions can be used at any place any other value can be used. 
+  Functions can be stored in variables, objects, and arrays.
+  Functions can be passed as arguments to other functions, and functions can be returned from functions.
+  
